@@ -4,7 +4,7 @@ scipy
 numpy<2
 matplotlib==3.1.2
 # opencv_python==4.1.2.30
-opencv_python==4.3.0.38
+opencv_python==4.13.0.92
 # torch==1.2.0
 # torchvision==0.4.0
 tqdm==4.60.0
