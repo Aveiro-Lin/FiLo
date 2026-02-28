@@ -1,0 +1,11 @@
+    path: /opt/liblibai-models/user-workspace2/users/syq/Project/RSDATA/VISDRONE
+    train: images/train
+    val: images/val
+    test: images/test  # Optional
+
+    nc: 10
+
+    # Classes
+    names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
+
+

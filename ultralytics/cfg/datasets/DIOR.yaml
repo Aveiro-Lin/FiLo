@@ -1,0 +1,9 @@
+
+    path: /opt/liblibai-models/user-workspace2/users/syq/Project/RSDATA/DIOR
+    train: images/train
+    val: images/test
+    test: images/test  # Optional
+
+    nc: 20
+    names: ['Expressway-Service-area', 'Expressway-toll-station', 'airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam', 'golffield', 'groundtrackfield', 'harbor', 'overpass', 'ship', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill']
+    
