@@ -5,7 +5,7 @@
 
 FiLo is a fidelity-closed-loop tiny-object detector for remote sensing that preserves weak high-frequency cues across feature formation and early fusion to improve localization under dense layouts.
 
- <img src="Figure/main.jpg" width="750"> 
+ <img src="Figure/main.jpg" width="780"> 
 
 
 # Install
