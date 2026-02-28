@@ -2,7 +2,7 @@
 scipy
 # numpy==1.17.0
 numpy<2
-matplotlib==3.1.2
+matplotlib==3.10.8
 # opencv_python==4.1.2.30
 opencv_python==4.3.0.38
 # torch==1.2.0
